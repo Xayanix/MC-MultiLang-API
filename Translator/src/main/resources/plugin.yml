@@ -1,0 +1,9 @@
+name: MC-MultiLang-API
+version: '${project.version}'
+main: pl.xayanix.translator.Translator
+api-version: 1.16
+commands:
+  language:
+    description: Set your language on server
+  mlapi:
+    description: Admin commands
